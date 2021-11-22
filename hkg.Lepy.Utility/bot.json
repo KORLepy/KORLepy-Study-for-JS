@@ -1,0 +1,11 @@
+{
+    "main": "init.js",
+    "option": {
+        "apiLevel": 1,
+        "useUnifiedParams": false,
+        "useBabel": false,
+        "scriptPower": true,
+        "backupDBOnDelete": true,
+        "offOnRuntimeError": false
+    }
+}
